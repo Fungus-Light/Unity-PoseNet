@@ -1,0 +1,12 @@
+{
+  "audioHack":false,
+  "host":"localhost",
+  "port":"9527",
+  "format":"JSON",
+  "poseNetConig":{
+    "architecture": "MobileNetV1",
+    "outputStride": 8,
+    "inputResolution": 128,
+    "multiplier": 0.50
+  }
+}
